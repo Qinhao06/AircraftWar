@@ -11,6 +11,8 @@ import android.widget.Switch;
 
 public class MainActivity extends AppCompatActivity  {
 
+    private final static String TAG = "sdfsdhfsdl";
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
